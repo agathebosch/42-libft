@@ -21,6 +21,10 @@ SRCS	=	ft_memset.c		\
 			ft_strchr.c		\
 			ft_strrchr.c	\
 			ft_strncmp.c	\
+			ft_strcpy.c		\
+			ft_strcat.c		\
+			ft_strncpy.c	\
+			ft_strncat.c	\
 			ft_strlcpy.c	\
 			ft_strlcat.c	\
 			ft_strnstr.c	\
@@ -33,6 +37,8 @@ SRCS	=	ft_memset.c		\
 			ft_split.c		\
 			ft_itoa.c		\
 			ft_strmapi.c	\
+			ft_putchar.c	\
+			ft_putstr.c		\
 			ft_putchar_fd.c	\
 			ft_putstr_fd.c	\
 			ft_putendl_fd.c	\
